@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://claudio89pellitteri.github.io/asd-atletico-mussomeli/sitemap.xml
